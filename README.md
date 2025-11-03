@@ -1,0 +1,1 @@
+# git_friend_repo
